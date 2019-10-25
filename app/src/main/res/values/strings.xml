@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">conn4</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="leftarrow"><![CDATA[<]]></string>
+    <string name="rightarrow"><![CDATA[>]]></string>
+</resources>
